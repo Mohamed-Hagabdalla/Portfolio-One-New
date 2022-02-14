@@ -77,7 +77,7 @@ h1, h2 {
 #hero-image {
     height: 600px;
     width: 100%;
-    background: url('../images/pexels-binyamin-mellish-17840.jpg') no-repeat center center;
+    background: url('../images/hero-image.jpg') no-repeat center center;
 
     /* animates zoom effect on loading page */
 
@@ -121,6 +121,12 @@ h1, h2 {
 
 /* club ethos */
 
+#welcome {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 280%;
+}
+
 #club-ethos {
     height: 600px;
 }
@@ -140,7 +146,6 @@ h1, h2 {
 #center-about {
     width: 33%;
     margin: 0 auto; /* This will center the entire div, as there is no "float: center" value available */
-    background-color: green;
 }
 
 hr {
@@ -170,4 +175,22 @@ hr {
 
 .right-about-heading p {
     text-align: right;
+}
+
+#circle-container {
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 1px;
+    border-radius: 50%; /* This will create a circle, however it will only work with containers of equal width and height dimensions. */
+    margin: 0 auto; /* This will center the content within its parent container, in this case, the circle will be centered in the middle div. */
+}
+
+/* The circular image within the circle */
+#circle-cover-background {
+    background: url('../images/ethos-center-image.jpg') no-repeat center center;
+    height: 100%;
+    border-radius: 50%; 
 }
