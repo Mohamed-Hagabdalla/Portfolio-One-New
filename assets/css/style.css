@@ -221,3 +221,26 @@ hr {
 #times h2 {
     color: #fafafa;
 }
+
+/* footer */
+
+footer {
+    height: 150px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+/* '.social-networks > li' means that these rules will only be applied to li elements that are direct children of the social-networks class. */
+.social-networks > li { 
+    display: inline;
+}
+
+/* target all i elements of the social-networks class */
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
+}
