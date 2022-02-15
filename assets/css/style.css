@@ -244,3 +244,17 @@ footer {
     padding: 5%;
     color: #3a3a3a;
 }
+
+/* gallery */
+
+#photos {
+    clear: both; /* photo section and its contents (images) will display below the header (heading and navigation links) */
+    line-height: 0; /* removes any horizontal gaps between the images */
+    column-count: 4; /* displays the images in 4 columns */
+    column-gap: 0; /* gets rid of the vertical gaps */
+}
+
+/* '#photos > img' means that these rules will only be applied to img elements (images) that are direct children of the id = "photos". */
+#photos > img {
+    width: 100%;
+}
