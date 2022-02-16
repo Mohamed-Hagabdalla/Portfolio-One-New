@@ -261,7 +261,7 @@ footer {
 
 /* Media queries */
 
-/* For medium to large screens of size 1200px and below */
+/* For medium to large screens sizes of width 1200px and below */
 @media screen and (max-width: 1200px) {
     #club-ethos {
         width: 65%;
@@ -290,5 +290,21 @@ footer {
 
     hr {
         display: none;
+    }
+}
+
+/* For medium screen sizes of width 950px and below */
+@media screen and (max-width: 950px) {
+    /* clear and float properties will push the navigation links below and left of the logo */
+    #menu {
+        clear: left;
+        float: left;
+        
+        /* provides space between navigation links and the left edge of the screen */
+        margin-left: 30px; 
+
+        /* these provide a balanced space between the logo above and the main image below */
+        margin-bottom: 20px;
+        line-height: 25px;
     }
 }
