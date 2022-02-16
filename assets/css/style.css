@@ -346,4 +346,15 @@ footer {
         /* Left and right padding set to 20px, to provide space on each side of the paragraphs */
         padding: 0 20px;
     }
+
+    #photos {
+        column-count: 3;
+    }
+}
+
+/* For small screen sizes of width 800px and below */
+@media screen and (max-width: 800px) {
+    #photos {
+        column-count: 2;
+    }
 }
