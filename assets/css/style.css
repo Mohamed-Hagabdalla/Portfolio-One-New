@@ -299,12 +299,40 @@ footer {
     #menu {
         clear: left;
         float: left;
-        
+
         /* provides space between navigation links and the left edge of the screen */
         margin-left: 30px; 
 
         /* these provide a balanced space between the logo above and the main image below */
         margin-bottom: 20px;
         line-height: 25px;
+    }
+
+    #cover-text {
+        /* aligns the left edge of the screen with the cover text box */
+        left: 0;
+    }
+
+    #club-ethos {
+        width: 90%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    .left-about-heading, .right-about-heading {
+        /* The text content's width will be inherited from the parent section */
+        width: inherit;
+    }
+
+    .left-about-heading h2, .right-about-heading h2 {
+        width: 100%;
+        text-align: center;
+    }
+
+    .left-about-heading p, .right-about-heading p {
+        text-align: center;
+
+        /* Left and right padding set to 20px, to provide space on each side of the paragraphs */
+        padding: 0 20px;
     }
 }
