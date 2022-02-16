@@ -288,6 +288,17 @@ footer {
         padding: 0;
     }
 
+    /* These CSS rules will target each 'times' child div, denoted by the greater than sign */
+    #times > div {
+        width: 100%;
+
+        /* stack the div's verically */
+        clear: both;
+
+        height: 150px;
+        padding: 0;
+    }
+
     hr {
         display: none;
     }
