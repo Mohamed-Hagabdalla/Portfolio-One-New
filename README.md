@@ -83,3 +83,41 @@ The website was deployed to GitHub pages. To successfully deploy a website, foll
 5. The website has successfuly been deployed. 
 
 The link to the live website can be found [here](https://mohamed-hagabdalla.github.io/Portfolio-One-New/)
+
+
+## Credits
+
+Below, any references used as help have been listed below. References include : code from other respositories, video tutorials, external websites and images. 
+
+### Content
+
+- The video tutorials provided by Code Institute were used as a base structure for the entire project, along with their source codes.
+- The source code for the [Home Page](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode/blob/main/08-responsive-elements/05-responsive-gallery/index.html)
+- The source code for the [Gallery Page](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode/blob/main/08-responsive-elements/05-responsive-gallery/gallery.html)
+- The source code for the [CSS](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode/blob/main/08-responsive-elements/05-responsive-gallery/assets/css/style.css)
+- The fonts used for the entire project were obtained from [Google Fonts](https://fonts.google.com/)
+- The icons used in the project were obtained from [Font Awesome](https://www.fontawesome.com/)
+- The script code, located at the bottom of each HTML file, was obtained from my kit, after creating an account on [Font Awesome](https://fontawesome.com/kits/749939eb6c/use)
+
+### Media 
+
+- The images used for this website were taken from [Pexels](https://www.pexels.com/)
+- Image (hero-image) taken from [Pexels](https://www.pexels.com/photo/man-lifting-barbel-17840/)
+- Image (ethos-center-image) taken from [Pexels](https://www.pexels.com/photo/man-holding-barbell-1431282/)
+- Image (times-background) taken from [Pexels](https://www.pexels.com/photo/bridge-over-river-in-city-258117/)
+
+The following images obtained were used in the Gallery page: 
+
+1. [Man sitting on a flat bench](https://www.pexels.com/photo/man-sitting-on-flat-bench-3490348/)
+2. [Woman doing sit ups](https://www.pexels.com/photo/woman-doing-sit-ups-3076516/)
+3. [Man curling dumbbell](https://www.pexels.com/photo/man-in-white-tank-top-and-grey-shorts-lifting-dumbbell-3838389/)
+4. [Woman raising dumbbell ](https://www.pexels.com/photo/photo-of-woman-sitting-and-raising-dumbbells-2475875/)
+5. [Man bench pressing](https://www.pexels.com/photo/muscular-sportsman-training-with-heavy-barbell-during-weightlifting-workout-in-modern-gym-3837781/)
+6. [Man doing shoulder press with dumbbells](https://www.pexels.com/photo/man-exercising-at-a-gym-4164759/)
+7. [Man doing push ups](https://www.pexels.com/photo/photo-of-man-doing-push-ups-using-yellow-kettlebell-4720269/)
+8. [Woman using elliptical machine](https://www.pexels.com/photo/exhausted-young-obese-woman-training-on-elliptical-machine-with-support-of-asian-male-instructor-6551093/)
+9. [Man deadlifting](https://www.pexels.com/photo/man-lifting-a-barbell-4720776/)
+
+## Acknowledgements
+
+- I would like to thank my mentor for his full support and help throughout this project.
