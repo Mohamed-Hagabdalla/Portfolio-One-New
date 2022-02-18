@@ -102,9 +102,9 @@ Below, any references used as help have been listed below. References include : 
 ### Media 
 
 - The images used for this website were taken from [Pexels](https://www.pexels.com/)
-- Image (hero-image) taken from [Pexels](https://www.pexels.com/photo/man-lifting-barbel-17840/)
-- Image (ethos-center-image) taken from [Pexels](https://www.pexels.com/photo/man-holding-barbell-1431282/)
-- Image (times-background) taken from [Pexels](https://www.pexels.com/photo/bridge-over-river-in-city-258117/)
+- Image [hero-image](https://www.pexels.com/photo/man-lifting-barbel-17840/) taken from Pexels
+- Image [ethos-center-image](https://www.pexels.com/photo/man-holding-barbell-1431282/) taken from Pexels
+- Image [times-background](https://www.pexels.com/photo/bridge-over-river-in-city-258117/) taken from Pexels
 
 The following images obtained were used in the Gallery page: 
 
