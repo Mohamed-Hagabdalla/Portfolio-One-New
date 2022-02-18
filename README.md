@@ -67,3 +67,19 @@ To ensure the HTML and CSS codes ran smoothly and had no errors, they were both 
 
 2. CSS
 - No errors were found when running the CSS code on the [CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+
+## Unfixed Bugs
+
+One unfixed bug that occurred was the positioning of certain images used in the Gallery section. Some images were not presented as intended. This was due to the dimensions of the image not aligning well with other images.
+
+## Deployment
+
+The website was deployed to GitHub pages. To successfully deploy a website, follow the steps below:
+
+1. Ensure the relevant respository is loaded and select the settings tab.
+2. Navigate to the pages tab (the second-last option on the left hand side).
+3. Select the main branch, the root folder and click save.
+4. Refresh the page and a message should appear, telling you that your site has been published.
+5. The website has successfuly been deployed. 
+
+The link to the live website can be found [here](https://mohamed-hagabdalla.github.io/Portfolio-One-New/)
