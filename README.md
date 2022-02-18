@@ -53,3 +53,17 @@ There are a few features that enhance the user's experience. For example, a navi
 - It is located at the bottom of every page, so the user can access them easily, regardless of which page they are currently on.
 
 # Include image of the footer here
+
+## Testing
+
+The navigation bar on the top right hand corner of the website was tested to ensure each link navigated to the correct webpage. There were 3 links and each one navigates to a different page. Each link navigates to its intended page with no problems. The social media links, located at the bottom of each webpage, also navigate to their own sites with no issues.
+
+## Validator Testing
+
+To ensure the HTML and CSS codes ran smoothly and had no errors, they were both tested for validation. Testing for each code and more information on how they were tested are explained below in more detail.
+
+1. HTML
+-  A warning message did occurr, suggesting that headers should be included in the gallery section. However, no errors were found when running the HTML code on the [W3C Markup Validation Service](https://validator.w3.org/#validate_by_input)
+
+2. CSS
+- No errors were found when running the CSS code on the [CSS Validation Service](https://jigsaw.w3.org/css-validator/)
