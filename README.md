@@ -2,7 +2,7 @@
 
 [View the live project here!](https://mohamed-hagabdalla.github.io/Portfolio-One-New/)
 
-**The GYM** is a website that will help those imporive their fitness. It is mainly aimed at those who are interested in joining a gym. There are a number of features that will help the user understand the beneifts of joining, as well as how to join if they are interested.
+**The GYM** is a website that will help those improve their fitness. It is mainly aimed at those who are interested in joining a gym. There are a number of features that will help the user understand the benefits of joining, as well as how to join.
 
 ![An image of the website](assets/Screenshots/website-screenshot.png)
 
@@ -13,8 +13,8 @@ There are a few features that enhance the user's experience. For example, a navi
 ### Navigation Bar
 
 - This is located at the top right hand corner of each page.
-- It is identical across the three pages, thus allowing for easy navigation across the different pages, so the user can access any page without having to go back everytime.
-- Each navigation link is underlined when clicked, thus telling the user which wepage they are currently on.
+- It is identical across the three pages, thus allowing for easy navigation across the different pages. Plus, they can access any page without having to go back everytime.
+- Each navigation link is underlined when clicked, thus telling the user which webpage they are currently on.
 
 ![An image of the navigation bar](assets/Screenshots/navigation-bar-screenshot.png)
 
@@ -28,14 +28,14 @@ There are a few features that enhance the user's experience. For example, a navi
 ### Meet up times
 
 - This section informs users of locations and times for meeting ups with other members and staff, if they are interested.
-- Provides them with the option to meet in person, if they have any further enquiries or any general questions.
+- Provides them with the option to meet in person, if they have any further enquiries or general questions.
 
 ![An image of the meet up times](assets/Screenshots/meet-up-times-screenshot.png)
 
 ### Gallery
 
 - There is a gallery page, which is a page full of images of existing members exercising in the gym.
-- Shows the user what it is like to trainn at the gym.
+- Shows the user what it is like to train at the gym.
 
 ![An image of the Gallery](assets/Screenshots/gallery-screenshot.png)
 
