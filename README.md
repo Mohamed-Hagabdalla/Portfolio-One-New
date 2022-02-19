@@ -4,7 +4,7 @@
 
 **The GYM** is a website that will help those imporive their fitness. It is mainly aimed at those who are interested in joining a gym. There are a number of features that will help the user understand the beneifts of joining, as well as how to join if they are interested.
 
-# Include image of the website here
+![An image of the website](assets/Screenshots/website-screenshot.png)
 
 ## Features
 
@@ -14,29 +14,30 @@ There are a few features that enhance the user's experience. For example, a navi
 
 - This is located at the top right hand corner of each page.
 - It is identical across the three pages, thus allowing for easy navigation across the different pages, so the user can access any page without having to go back everytime.
+- Each navigation link is underlined when clicked, thus telling the user which wepage they are currently on.
 
-# Include image of the navigation bar here
+![An image of the navigation bar](assets/Screenshots/navigation-bar-screenshot.png)
 
 ### Club Ethos
 
-- Onn the homepage, the user will find a club ethos section. This lists the health benefits of exercising at the gym. 
+- On the homepage, the user will find a club ethos section. This lists the health benefits of exercising at the gym. 
 - Provides them with an insight in exercising at the gym.
 
-# Include image of the club ethos here
+![An image of the club ethos](assets/Screenshots/club-ethos-screenshot.png)
 
 ### Meet up times
 
-- This seciton tells users when and where meet ups will take place, if they are interested.
+- This section informs users of locations and times for meeting ups with other members and staff, if they are interested.
 - Provides them with the option to meet in person, if they have any further enquiries or any general questions.
 
-# Include image of the meet up times here
+![An image of the meet up times](assets/Screenshots/meet-up-times-screenshot.png)
 
 ### Gallery
 
 - There is a gallery page, which is a page full of images of existing members exercising in the gym.
-- Shows the user what it is like to be a a member.
+- Shows the user what it is like to trainn at the gym.
 
-# Include image of the gallery here
+![An image of the Gallery](assets/Screenshots/gallery-screenshot.png)
 
 ### Sign up form
 
@@ -44,7 +45,7 @@ There are a few features that enhance the user's experience. For example, a navi
 - They are also asked their preferred type of exercise and then they will be contacted in due time to discuss their options further.
 - Allows the user to be kept up to date and to speak with a member of staff in real time.
 
-# Include image of the sign up form here
+![An image of the Sign up form](assets/Screenshots/sign-up-form-screenshot.png)
 
 ### Footer
 
@@ -52,7 +53,7 @@ There are a few features that enhance the user's experience. For example, a navi
 - Encourages the user to keep up to date with the latest news and offers.
 - It is located at the bottom of every page, so the user can access them easily, regardless of which page they are currently on.
 
-# Include image of the footer here
+![An image of the footer](assets/Screenshots/footer-screenshot.png)
 
 ## Testing
 
@@ -106,7 +107,7 @@ Below, any references used as help have been listed below. References include : 
 - Image [ethos-center-image](https://www.pexels.com/photo/man-holding-barbell-1431282/) taken from Pexels
 - Image [times-background](https://www.pexels.com/photo/bridge-over-river-in-city-258117/) taken from Pexels
 
-The following images obtained were used in the Gallery page: 
+The following images obtained from [Pexels](https://www.pexels.com/) were used in the Gallery page: 
 
 1. [Man sitting on a flat bench](https://www.pexels.com/photo/man-sitting-on-flat-bench-3490348/)
 2. [Woman doing sit ups](https://www.pexels.com/photo/woman-doing-sit-ups-3076516/)
